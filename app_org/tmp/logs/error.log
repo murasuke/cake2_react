@@ -1,0 +1,36 @@
+2022-07-23 08:47:46 Error: [MissingControllerException] Controller class Cake2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cake2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cake2/app/cake2/
+Stack Trace:
+#0 /var/www/html/cake2/app_org/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-07-23 08:48:02 Error: [MissingControllerException] Controller class Cake2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cake2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cake2/app/cake2/
+Stack Trace:
+#0 /var/www/html/cake2/app_org/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-07-23 08:48:03 Error: [MissingControllerException] Controller class Cake2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cake2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cake2/app/cake2/
+Stack Trace:
+#0 /var/www/html/cake2/app_org/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-07-23 08:48:03 Error: [MissingControllerException] Controller class Cake2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cake2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cake2/app/cake2/
+Stack Trace:
+#0 /var/www/html/cake2/app_org/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
